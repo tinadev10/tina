@@ -2,7 +2,9 @@
 
 **Última atualização:** 14/11/2025
 
-Esta Política de Privacidade descreve como **CEDRO PROPRIEDADES AGRICOLAS LTDA.**, inscrita no CNPJ sob o nº **29.320.493/0001-29**, com sede em **Av. Brigadeiro Faria Lima, São Paulo/SP, CEP 04538-132, Brasil** (“**Nós**”, “**Cedro**” ou “**Empresa**”), coleta, utiliza, armazena e protege os dados pessoais dos usuários do assistente **TINA** (“**TINA**”, “**Aplicativo**” ou “**Serviço**”).
+Esta Política de Privacidade descreve como **CEDRO PROPRIEDADES AGRICOLAS LTDA.**, inscrita no CNPJ sob o nº **29.320.493/0001-29**, com sede na **Av. Brigadeiro Faria Lima, São Paulo – SP, CEP 04538-132, Brasil** (“**Nós**”, “**Cedro**” ou “**Empresa**”), coleta, utiliza, armazena e protege os dados pessoais dos usuários do assistente **TINA** (“**TINA**”, “**Aplicativo**” ou “**Serviço**”).
+
+A TINA é um assistente de compras e cotações que facilita a comunicação entre **comerciantes e donos de restaurantes** e **fornecedores**, auxiliando na troca de informações, organização de pedidos e otimização do processo de compras.
 
 Ao utilizar a TINA, você (“**Usuário**”) declara que leu e compreendeu esta Política de Privacidade e concorda com o tratamento de seus dados pessoais conforme descrito abaixo, em conformidade com a **Lei Geral de Proteção de Dados Pessoais – LGPD (Lei nº 13.709/2018)**.
 
@@ -10,78 +12,72 @@ Ao utilizar a TINA, você (“**Usuário**”) declara que leu e compreendeu est
 
 ## 1. Dados pessoais que coletamos
 
-Podemos coletar as seguintes categorias de dados pessoais, dependendo de como você utiliza a TINA:
+Os dados coletados podem variar conforme o modo de uso da TINA (por exemplo, via WhatsApp, integrações com redes sociais ou outros canais). Em geral, podemos coletar:
 
 ### 1.1. Dados de identificação e contato
 - Nome completo ou razão social;
-- Nome fantasia do estabelecimento (quando aplicável);
-- Número de telefone (incluindo WhatsApp);
+- Nome fantasia do estabelecimento;
+- Número de telefone (incluindo WhatsApp, quando aplicável);
 - E-mail de contato;
-- CPF ou CNPJ, quando necessário para fins de cadastro, documentação ou faturamento;
-- Cargo/função do usuário (ex.: dono do restaurante, gerente, comprador, representante comercial).
+- CPF ou CNPJ, quando necessário para fins de cadastro, documentação, faturamento ou identificação do negócio.
 
-### 1.2. Dados relacionados a compras, cotações e relacionamento comercial
-- Informações sobre produtos de interesse (descrição, categorias, marcas, volumes, frequências de compra);
-- Dados de pedidos, cotações, orçamentos e negociações (itens, quantidade, valores, formas de pagamento, prazos, condições comerciais);
-- Dados sobre fornecedores (razão social, contatos, condições comerciais), na medida em que forem inseridos pelo próprio usuário ou integrados ao sistema;
-- Histórico de interações comerciais intermediadas pela TINA entre comerciantes, donos de restaurantes e fornecedores.
+### 1.2. Dados comerciais e de uso do serviço
+- Informações sobre produtos, pedidos, cotações e propostas (por exemplo: itens desejados, quantidades, preços, prazos, condições de entrega);
+- Dados sobre fornecedores com os quais você se relaciona ou pretende se relacionar;
+- Histórico de interações com a TINA, incluindo conversas e comandos enviados ao assistente.
 
-### 1.3. Dados de uso do serviço e comunicações
-- Mensagens trocadas com a TINA por meio de canais como WhatsApp, Facebook, Instagram ou outros canais integrados;
-- Histórico de perguntas, solicitações, comandos e respostas;
-- Registros de data e hora das interações e de eventos relevantes (ex.: criação de uma cotação, alteração de pedido, confirmação de contato com fornecedor).
-
-### 1.4. Dados técnicos e de navegação (quando houver uso via web/painel)
+### 1.3. Dados técnicos e de navegação (quando houver interface web ou painel)
 - Endereço IP;
 - Data e hora de acesso;
-- Identificadores de dispositivo;
-- Informações sobre navegador, sistema operacional e páginas acessadas.
+- Informações sobre dispositivo, navegador e sistema operacional;
+- Registros de eventos de uso (logs de acesso, erros e desempenho).
 
-### 1.5. Dados obtidos por integrações com terceiros
-- Dados provenientes de plataformas de comunicação e redes sociais (como **WhatsApp, Facebook, Instagram** ou outras), na medida em que você autorizar o uso e interagir com a TINA por meio desses canais;
-- Dados provenientes de sistemas de terceiros que venham a ser integrados (por exemplo, ERPs, sistemas de gestão de pedidos ou CRMs), conforme contratos e autorizações específicas.
+### 1.4. Dados obtidos por integrações de terceiros
+Quando você utiliza a TINA por meio de integrações com plataformas de terceiros, como **WhatsApp, Facebook, Instagram** ou outras soluções de comunicação, algumas informações trafegam por essas plataformas, que possuem suas próprias políticas de privacidade e termos de uso.
 
-> **Observação:** Não solicitamos nem coletamos de forma intencional dados sensíveis (como origem racial ou étnica, convicções religiosas, dados de saúde etc.). Caso tais informações sejam fornecidas por você em mensagens ou anexos, o tratamento será limitado ao mínimo necessário para a prestação do serviço.
+> **Observação:** Não solicitamos nem coletamos intencionalmente dados sensíveis (como origem racial ou étnica, convicções religiosas, dados de saúde etc.). Caso tais informações sejam fornecidas espontaneamente por você em mensagens ou anexos, o tratamento será limitado ao mínimo necessário para a prestação do serviço.
 
 ---
 
 ## 2. Finalidades do tratamento de dados
 
-Utilizamos seus dados pessoais para as seguintes finalidades:
+Utilizamos os seus dados pessoais para as seguintes finalidades:
 
-### 2.1. Prestação e operação do serviço
-- Operar a TINA como assistente de compras e cotações, intermediando a comunicação entre comerciantes, donos de restaurantes e fornecedores;
-- Permitir o registro e a gestão de pedidos, cotações, orçamentos e negociações;
-- Facilitar o contato entre compradores e fornecedores, de acordo com as preferências e dados fornecidos.
+### 2.1. Prestação e operação da TINA
+- Permitir o funcionamento da TINA como assistente de compras e cotações;
+- Facilitar a comunicação entre comerciantes/restaurantes e fornecedores;
+- Processar e organizar informações sobre pedidos, cotações, contatos e fornecedores;
+- Personalizar respostas, sugestões e recomendações com base no seu contexto de uso.
 
 ### 2.2. Comunicação e suporte
-- Enviar respostas às suas perguntas, solicitações e comandos;
-- Entrar em contato com você para suporte, esclarecimento de dúvidas, avisos de funcionamento ou alterações relevantes no serviço.
+- Enviar notificações, respostas e atualizações relacionadas ao uso da TINA;
+- Prestar suporte técnico e atendimento ao usuário;
+- Comunicar mudanças relevantes no serviço ou em nossas políticas.
 
 ### 2.3. Melhoria contínua e análises internas
-- Analisar métricas de uso da TINA, desempenho das funcionalidades e qualidade das respostas;
-- Identificar padrões de uso para aprimorar a experiência do usuário e a eficiência das cotações e negociações;
-- Desenvolver novas funcionalidades, corrigir erros e melhorar a estabilidade da plataforma.
+- Avaliar o desempenho da TINA, qualidade das respostas e experiência de uso;
+- Realizar análises estatísticas e de uso para aprimorar funcionalidades;
+- Desenvolver novas soluções e recursos voltados a compras e cotações.
 
-### 2.4. Cumprimento de obrigações legais e regulatórias
-- Atender a exigências legais e regulatórias;
-- Responder a solicitações de autoridades públicas e órgãos reguladores;
-- Manter registros de acesso e operações, quando exigido por lei.
+### 2.4. Cumprimento de obrigações legais
+- Atender a obrigações legais e regulatórias;
+- Atender a solicitações de autoridades competentes, quando necessário;
+- Manter registros de acesso e de uso conforme exigido pela legislação.
 
 ### 2.5. Segurança
-- Prevenir fraudes, acessos indevidos, usos abusivos e incidentes de segurança;
-- Proteger os direitos, a integridade e a segurança da Cedro, dos usuários e de terceiros.
+- Prevenir fraudes, acessos não autorizados e uso indevido do serviço;
+- Proteger direitos, propriedade e segurança da Cedro, dos usuários e de terceiros.
 
 ---
 
 ## 3. Bases legais utilizadas
 
-O tratamento de dados pessoais realizado por meio da TINA se fundamenta, conforme o caso, nas seguintes bases legais previstas na LGPD:
+O tratamento de dados pessoais realizado por meio da TINA se fundamenta nas seguintes bases legais da LGPD:
 
-- **Execução de contrato** (art. 7º, V): quando o tratamento é necessário para fornecimento do serviço solicitado por você;
+- **Execução de contrato** (art. 7º, V): quando o tratamento é necessário para fornecer a TINA e os serviços relacionados;
 - **Cumprimento de obrigação legal ou regulatória** (art. 7º, II);
-- **Legítimo interesse** (art. 7º, IX): para apoiar e promover nossas atividades, sempre respeitando seus direitos e liberdades fundamentais;
-- **Consentimento** (art. 7º, I): quando solicitado para funcionalidades específicas, podendo ser revogado a qualquer momento.
+- **Legítimo interesse** (art. 7º, IX): em situações em que o tratamento é necessário para apoiar e promover nossas atividades, sempre respeitando seus direitos e liberdades fundamentais;
+- **Consentimento** (art. 7º, I): quando solicitado para finalidades específicas, podendo ser revogado a qualquer momento.
 
 ---
 
@@ -89,41 +85,42 @@ O tratamento de dados pessoais realizado por meio da TINA se fundamenta, conform
 
 Podemos compartilhar seus dados pessoais nas seguintes hipóteses:
 
-### 4.1. Fornecedores de tecnologia e infraestrutura
-- Provedores de hospedagem, serviços em nuvem, bancos de dados, ferramentas de envio de mensagens e demais soluções técnicas necessárias para o funcionamento da TINA.
+### 4.1. Fornecedores e parceiros de tecnologia
+- Provedores de hospedagem e computação em nuvem;
+- Plataformas de comunicação (por exemplo, provedores de APIs de mensagens);
+- Ferramentas de análise, monitoramento e segurança;
+- Fornecedores de tecnologias de inteligência artificial, quando utilizados para processamento das interações com a TINA.
 
 ### 4.2. Plataformas de comunicação e redes sociais
-- Quando você utiliza a TINA por meio de integrações com **WhatsApp, Facebook, Instagram** ou outros canais, os dados trafegam por essas plataformas, que possuem suas próprias políticas de privacidade e termos de uso.
+Quando você utiliza a TINA por meio de **WhatsApp, Facebook, Instagram** ou outros canais, suas mensagens e dados podem ser tratados conforme as regras dessas plataformas, que possuem termos de uso e políticas de privacidade próprios.
 
-### 4.3. Fornecedores e parceiros comerciais
-- Dados necessários para permitir que fornecedores recebam e respondam a pedidos, cotações e demais solicitações originadas a partir da TINA, dentro do contexto de intermediação comercial.
-
-### 4.4. Autoridades públicas
+### 4.3. Autoridades públicas
 - Quando houver obrigação legal, ordem judicial ou solicitação de autoridade competente.
 
-### 4.5. Operações societárias
-- Em casos de fusão, aquisição, incorporação ou outras operações societárias, os dados poderão ser transferidos, mantendo-se as condições de proteção aqui estabelecidas.
+### 4.4. Operações societárias
+- Em caso de fusão, aquisição, incorporação ou operações semelhantes envolvendo a Cedro, os dados poderão ser transferidos, desde que mantidas as condições de proteção aqui estabelecidas.
 
-> Não vendemos dados pessoais de usuários.
+> **Não vendemos dados pessoais** de usuários.
 
 ---
 
 ## 5. Armazenamento e segurança dos dados
 
-Adotamos medidas técnicas e organizacionais razoáveis para proteger seus dados pessoais contra acessos não autorizados, perda, alteração ou destruição, tais como:
+Adotamos medidas técnicas e organizacionais adequadas para proteger seus dados pessoais contra acessos não autorizados, perda, alteração ou destruição, incluindo:
 
-- Controle de acesso restrito a colaboradores e parceiros autorizados;
-- Adoção de boas práticas de segurança da informação;
-- Utilização de criptografia em trânsito (por exemplo, HTTPS), quando aplicável.
+- Controle de acesso restrito a colaboradores e prestadores de serviço autorizados;
+- Boas práticas de segurança da informação;
+- Utilização de criptografia em trânsito (por exemplo, HTTPS), quando aplicável;
+- Monitoramento e registro de eventos relevantes nos sistemas.
 
-Embora nos esforcemos para proteger suas informações, nenhum sistema é completamente seguro. Em caso de incidente de segurança que possa acarretar risco ou dano relevante, adotaremos as medidas cabíveis e, quando exigido por lei, notificaremos você e a autoridade competente.
+Embora nos esforcemos para proteger suas informações, nenhum sistema é totalmente imune a incidentes. Em caso de incidente de segurança que possa acarretar risco ou dano relevante, adotaremos as medidas cabíveis e, quando exigido por lei, notificaremos você e as autoridades competentes.
 
-Os dados serão mantidos somente pelo tempo necessário para:
+Manteremos os dados pessoais:
 
-- Prestação do serviço;
-- Cumprimento de obrigações legais ou regulatórias;
-- Exercício regular de direitos em processos judiciais, administrativos ou arbitrais;
-- Finalidades legítimas compatíveis com o contexto da coleta.
+- Pelo tempo necessário para a prestação do serviço;
+- Pelo prazo exigido por lei ou regulamento;
+- Pelo período necessário para exercício regular de direitos em processos judiciais, administrativos ou arbitrais;
+- Pelo tempo correspondente a legítimos interesses da Cedro, respeitados seus direitos e as demais disposições da LGPD.
 
 ---
 
@@ -131,29 +128,32 @@ Os dados serão mantidos somente pelo tempo necessário para:
 
 Nos termos da LGPD, você possui, entre outros, os seguintes direitos:
 
-- Confirmar a existência de tratamento de dados pessoais;
-- Acessar os dados pessoais que possuímos sobre você;
+- Confirmar se realizamos tratamento de seus dados pessoais;
+- Acessar os dados pessoais que mantemos sobre você;
 - Solicitar a correção de dados incompletos, inexatos ou desatualizados;
 - Solicitar a anonimização, o bloqueio ou a eliminação de dados desnecessários, excessivos ou tratados em desconformidade com a LGPD;
+- Solicitar informações sobre com quem compartilhamos seus dados;
 - Solicitar a portabilidade dos dados, quando aplicável;
-- Solicitar informações sobre compartilhamento de dados;
 - Revogar o consentimento, quando o tratamento se basear nele.
 
-Para exercer seus direitos, você poderá entrar em contato pelo e-mail: **[INSERIR_E-MAIL_DE_CONTATO_PRIVACIDADE]**.
+Para exercer seus direitos, você pode entrar em contato por meio do e-mail: **privacidade@cedroteki.com**.
 
 ---
 
-## 7. Retenção e exclusão de dados (Exclusão de Dados – Meta/Facebook)
+## 7. Retenção e exclusão de dados
 
-Você pode solicitar a exclusão dos seus dados pessoais a qualquer momento, por meio de:
+Você pode solicitar a exclusão dos seus dados pessoais relacionados ao uso da TINA a qualquer momento, nos termos da legislação aplicável.
 
-1. Envio de e-mail para **[INSERIR_E-MAIL_DE_CONTATO_PRIVACIDADE]** com o assunto:  
+Para isso, basta:
+
+1. Enviar um e-mail para **privacidade@cedroteki.com** com o assunto:  
    **“Exclusão de dados – TINA”**, informando:
    - Seu nome ou razão social;
    - Número de telefone utilizado na TINA (por exemplo, WhatsApp);
-   - Outros dados necessários para localizar seu cadastro; ou
+   - Dados adicionais que possam auxiliar na localização do seu cadastro, se necessário; ou
 
-2. Seguindo as instruções específicas disponibilizadas no próprio serviço ou em nossa página oficial.
+2. Seguir as instruções de exclusão fornecidas na página específica de Exclusão de Dados:  
+   **https://cedroteki.com/** (ou o endereço que vier a ser informado oficialmente pela Cedro).
 
 Após o recebimento da solicitação, analisaremos o pedido e, não havendo impedimentos legais, realizaremos a exclusão ou anonimização dos dados em prazo razoável.
 
@@ -161,7 +161,7 @@ Em alguns casos, poderemos manter determinados dados para:
 
 - Cumprimento de obrigações legais ou regulatórias;
 - Exercício regular de direitos em processos judiciais, administrativos ou arbitrais;
-- Segurança e prevenção a fraudes, observados os prazos prescricionais aplicáveis.
+- Segurança e prevenção a fraudes, dentro dos prazos prescricionais aplicáveis.
 
 ---
 
@@ -169,22 +169,21 @@ Em alguns casos, poderemos manter determinados dados para:
 
 A TINA **não é destinada a menores de 18 anos**. Não coletamos, de forma consciente, dados pessoais de crianças ou adolescentes.
 
-Se você for responsável por um menor de idade e acreditar que ele forneceu dados à TINA, entre em contato por meio do e-mail **[INSERIR_E-MAIL_DE_CONTATO_PRIVACIDADE]** para que possamos tomar as providências necessárias, incluindo a exclusão dessas informações.
+Caso você seja responsável por um menor de idade e acredite que ele tenha fornecido dados à TINA, entre em contato pelo e-mail **privacidade@cedroteki.com**, para que possamos tomar as providências necessárias, incluindo a exclusão das informações indevidas.
 
 ---
 
 ## 9. Alterações desta Política de Privacidade
 
-Podemos atualizar esta Política de Privacidade periodicamente para refletir mudanças na TINA, em nossas práticas de tratamento de dados ou na legislação aplicável.
+Esta Política de Privacidade pode ser atualizada periodicamente para refletir alterações na TINA, em nossas práticas ou na legislação vigente.
 
-Sempre que houver alterações relevantes, poderemos informar você por meio:
+Sempre que houver mudanças relevantes, poderemos informar você por meio:
 
-- Da própria TINA;
-- De e-mail;
-- Ou de aviso em nossa página oficial **https://cedroteki.com/**.
+- De avisos na própria TINA ou em nossos canais oficiais;
+- Ou por e-mail, quando apropriado.
 
 A versão mais recente desta Política estará sempre disponível em:  
-**[INSERIR_URL_DA_PÁGINA_DESTA_POLÍTICA]**
+**[URL ONDE ESTE ARQUIVO .MD OU PÁGINA SERÁ PUBLICADO]**
 
 ---
 
@@ -192,9 +191,8 @@ A versão mais recente desta Política estará sempre disponível em:
 
 Em caso de dúvidas, solicitações ou reclamações relacionadas a esta Política de Privacidade ou ao tratamento de seus dados pessoais, entre em contato:
 
-- **Responsável pelo tratamento/LGPD:** [INSERIR_NOME_DO_RESPONSÁVEL]  
-- **E-mail:** [INSERIR_E-MAIL_DE_CONTATO_PRIVACIDADE]  
+- **Empresa:** CEDRO PROPRIEDADES AGRICOLAS LTDA.  
 - **Site:** https://cedroteki.com/  
-- **Endereço:** Av. Brigadeiro Faria Lima, São Paulo/SP, CEP 04538-132, Brasil
-
----
+- **E-mail para questões de privacidade/LGPD:** privacidade@cedroteki.com  
+- **Telefone comercial:** +55 62 98402-7889  
+- **Endereço:** Av. Brigadeiro Faria Lima, São Paulo – SP, CEP 04538-132, Brasil
